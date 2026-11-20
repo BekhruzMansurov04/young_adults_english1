@@ -1,15 +1,15 @@
+import fs from 'node:fs';
+
 import {
   grammarQuestions,
-  vocabularyQuestions
-} from "./src/data/gameData.js";
-
-import fs from "node:fs";
+  vocabularyQuestions,
+} from './src/data/gameData.js';
 
 const questions = [
   ...grammarQuestions.map(q => ({
     id: `grammar-${q.id}`,
     mode: "grammar",
-    questions: q.q,
+    question: q.q,
     options: JSON.stringify(q.opts),
     correct_answer: q.a,
     topic: q.topic || "Grammar"

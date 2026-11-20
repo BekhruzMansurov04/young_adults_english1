@@ -3,7 +3,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g0',
     'grammar',
-    '',
+    'She ___ to school every day.',
     '["go","goes","going","gone"]',
     1,
     'Present Simple'
@@ -13,7 +13,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g1',
     'grammar',
-    '',
+    'They ___ playing football now.',
     '["is","am","are","be"]',
     2,
     'Present Continuous'
@@ -23,7 +23,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g2',
     'grammar',
-    '',
+    'I ___ a student.',
     '["is","are","am","be"]',
     2,
     'Verb to be'
@@ -33,7 +33,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g3',
     'grammar',
-    '',
+    'He has ___ apple.',
     '["a","an","thee","some"]',
     1,
     'Articles'
@@ -43,7 +43,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g4',
     'grammar',
-    '',
+    'We ___ TV yesterday.',
     '["watch","watched","watches","watching"]',
     1,
     'Past Simple'
@@ -53,7 +53,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g5',
     'grammar',
-    '',
+    'There ___ two books on the desk.',
     '["is","am","are","be"]',
     2,
     'There is/are'
@@ -63,7 +63,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g6',
     'grammar',
-    '',
+    'My bag is ___ than yours.',
     '["big","bigger","biggest","more big"]',
     1,
     'Comparatives'
@@ -73,7 +73,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g7',
     'grammar',
-    '',
+    'You ___ run in the classroom.',
     '["shouldn’t","doesn’t","isn’t","aren’t"]',
     0,
     'Should'
@@ -83,7 +83,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g8',
     'grammar',
-    '',
+    'I have lived here ___ 2020.',
     '["for","since","at","from"]',
     1,
     'Since/for'
@@ -93,7 +93,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g9',
     'grammar',
-    '',
+    '___ you like some tea?',
     '["Do","Would","Are","Have"]',
     1,
     'Polite requests'
@@ -103,7 +103,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g10',
     'grammar',
-    '',
+    'She ___ swim very well.',
     '["can","cans","is can","does can"]',
     0,
     'Can'
@@ -113,7 +113,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g11',
     'grammar',
-    '',
+    'We ___ dinner when he arrived.',
     '["had","were having","have","are having"]',
     1,
     'Past Continuous'
@@ -123,7 +123,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g12',
     'grammar',
-    '',
+    'This is ___ book.',
     '["me","mine","my","I"]',
     2,
     'Possessives'
@@ -133,7 +133,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g13',
     'grammar',
-    '',
+    'How ___ milk do we need?',
     '["many","much","few","several"]',
     1,
     'Quantifiers'
@@ -143,7 +143,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g14',
     'grammar',
-    '',
+    'If it rains, we ___ at home.',
     '["stay","stayed","will stay","staying"]',
     2,
     'First conditional'
@@ -153,7 +153,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g15',
     'grammar',
-    '',
+    'He ___ finished his homework yet.',
     '["haven’t","hasn’t","didn’t","isn’t"]',
     1,
     'Present Perfect'
@@ -163,7 +163,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g16',
     'grammar',
-    '',
+    'The cat is ___ the table.',
     '["under","between of","during","since"]',
     0,
     'Prepositions'
@@ -173,7 +173,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g17',
     'grammar',
-    '',
+    'I enjoy ___ books.',
     '["read","reads","reading","to reading"]',
     2,
     'Gerunds'
@@ -183,7 +183,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g18',
     'grammar',
-    '',
+    'This is the ___ day of my life.',
     '["happy","happier","happiest","most happy"]',
     2,
     'Superlatives'
@@ -193,7 +193,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g19',
     'grammar',
-    '',
+    'They ___ from Uzbekistan.',
     '["is","am","are","be"]',
     2,
     'Verb to be'
@@ -203,7 +203,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g20',
     'grammar',
-    '',
+    'My brother ___ football on Sundays.',
     '["play","plays","playing","played"]',
     1,
     'Present Simple'
@@ -213,7 +213,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g21',
     'grammar',
-    '',
+    'I ___ my homework at the moment.',
     '["do","does","am doing","did"]',
     2,
     'Present Continuous'
@@ -223,7 +223,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g22',
     'grammar',
-    '',
+    'We ___ to Samarkand last summer.',
     '["go","goes","went","gone"]',
     2,
     'Past Simple'
@@ -233,7 +233,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g23',
     'grammar',
-    '',
+    'She ___ not like coffee.',
     '["do","does","is","has"]',
     1,
     'Present Simple'
@@ -243,7 +243,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g24',
     'grammar',
-    '',
+    '___ they live near here?',
     '["Does","Are","Do","Have"]',
     2,
     'Present Simple'
@@ -253,7 +253,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g25',
     'grammar',
-    '',
+    'Look! The baby ___.',
     '["cries","cry","is crying","cried"]',
     2,
     'Present Continuous'
@@ -263,7 +263,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g26',
     'grammar',
-    '',
+    'There ___ a pen in my bag.',
     '["are","is","be","were"]',
     1,
     'There is/are'
@@ -273,7 +273,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g27',
     'grammar',
-    '',
+    'There ___ three apples on the plate.',
     '["is","am","are","was"]',
     2,
     'There is/are'
@@ -283,7 +283,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g28',
     'grammar',
-    '',
+    'I have got ___ orange.',
     '["a","an","thee","many"]',
     1,
     'Articles'
@@ -293,7 +293,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g29',
     'grammar',
-    '',
+    'He is ___ honest boy.',
     '["a","an","the","some"]',
     1,
     'Articles'
@@ -303,7 +303,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g30',
     'grammar',
-    '',
+    'This is ___ university.',
     '["a","an","any","much"]',
     0,
     'Articles'
@@ -313,7 +313,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g31',
     'grammar',
-    '',
+    'The sun ___ in the east.',
     '["rise","rises","rising","rose"]',
     1,
     'Present Simple'
@@ -323,7 +323,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g32',
     'grammar',
-    '',
+    'They ___ dinner when I called.',
     '["had","were having","have","has"]',
     1,
     'Past Continuous'
@@ -333,7 +333,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g33',
     'grammar',
-    '',
+    'I ___ a film yesterday.',
     '["see","seen","saw","seeing"]',
     2,
     'Past Simple'
@@ -343,7 +343,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g34',
     'grammar',
-    '',
+    'She has ___ her keys.',
     '["lose","lost","losing","loses"]',
     1,
     'Present Perfect'
@@ -353,7 +353,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g35',
     'grammar',
-    '',
+    'Have you ever ___ sushi?',
     '["eat","ate","eaten","eating"]',
     2,
     'Present Perfect'
@@ -363,7 +363,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g36',
     'grammar',
-    '',
+    'We have lived here ___ five years.',
     '["since","for","from","at"]',
     1,
     'Since/for'
@@ -373,7 +373,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g37',
     'grammar',
-    '',
+    'He has worked here ___ 2022.',
     '["for","during","since","at"]',
     2,
     'Since/for'
@@ -383,7 +383,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g38',
     'grammar',
-    '',
+    'You ___ wear a seat belt.',
     '["should","should to","are","has"]',
     0,
     'Should'
@@ -393,7 +393,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g39',
     'grammar',
-    '',
+    'You ___ touch that hot pan.',
     '["should","shouldn’t","can to","doesn’t"]',
     1,
     'Should'
@@ -403,7 +403,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g40',
     'grammar',
-    '',
+    'A bird ___ fly.',
     '["can","cans","is can","does can"]',
     0,
     'Can'
@@ -413,7 +413,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g41',
     'grammar',
-    '',
+    '___ I borrow your pencil?',
     '["May","Am","Do","Have"]',
     0,
     'Permission'
@@ -423,7 +423,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g42',
     'grammar',
-    '',
+    'This box is ___ than that one.',
     '["heavy","heavier","heaviest","more heavy"]',
     1,
     'Comparatives'
@@ -433,7 +433,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g43',
     'grammar',
-    '',
+    'The blue whale is the ___ animal.',
     '["large","larger","largest","more large"]',
     2,
     'Superlatives'
@@ -443,7 +443,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g44',
     'grammar',
-    '',
+    'My room is ___ than yours.',
     '["clean","cleaner","cleanest","most clean"]',
     1,
     'Comparatives'
@@ -453,7 +453,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g45',
     'grammar',
-    '',
+    'Today is ___ day of the week for me.',
     '["busy","busier","the busiest","more busy"]',
     2,
     'Superlatives'
@@ -463,7 +463,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g46',
     'grammar',
-    '',
+    'There isn’t ___ water in the bottle.',
     '["many","much","few","several"]',
     1,
     'Quantifiers'
@@ -473,7 +473,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g47',
     'grammar',
-    '',
+    'How ___ students are in your class?',
     '["much","many","little","any"]',
     1,
     'Quantifiers'
@@ -483,7 +483,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g48',
     'grammar',
-    '',
+    'I have ___ friends in this town.',
     '["a little","much","a few","any of"]',
     2,
     'Quantifiers'
@@ -493,7 +493,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g49',
     'grammar',
-    '',
+    'We don’t have ___ eggs.',
     '["some","any","much of","a"]',
     1,
     'Quantifiers'
@@ -503,7 +503,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g50',
     'grammar',
-    '',
+    'The shoes are ___ the bed.',
     '["under","during","since","between of"]',
     0,
     'Prepositions'
@@ -513,7 +513,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g51',
     'grammar',
-    '',
+    'The picture is ___ the wall.',
     '["in","on","at","under"]',
     1,
     'Prepositions'
@@ -523,7 +523,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g52',
     'grammar',
-    '',
+    'School starts ___ 8 o’clock.',
     '["in","on","at","by of"]',
     2,
     'Prepositions'
@@ -533,7 +533,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g53',
     'grammar',
-    '',
+    'My birthday is ___ May.',
     '["at","on","in","by"]',
     2,
     'Prepositions'
@@ -543,7 +543,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g54',
     'grammar',
-    '',
+    'We play football ___ Fridays.',
     '["at","in","on","from"]',
     2,
     'Prepositions'
@@ -553,7 +553,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g55',
     'grammar',
-    '',
+    'I am interested ___ music.',
     '["on","at","in","for"]',
     2,
     'Prepositions'
@@ -563,7 +563,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g56',
     'grammar',
-    '',
+    'She is good ___ maths.',
     '["at","in","on","to"]',
     0,
     'Prepositions'
@@ -573,7 +573,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g57',
     'grammar',
-    '',
+    'I enjoy ___ new words.',
     '["learn","learning","learned","to learning"]',
     1,
     'Gerunds'
@@ -583,7 +583,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g58',
     'grammar',
-    '',
+    'He wants ___ a doctor.',
     '["be","being","to be","is"]',
     2,
     'Infinitives'
@@ -593,7 +593,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g59',
     'grammar',
-    '',
+    'They decided ___ early.',
     '["leave","leaving","to leave","left"]',
     2,
     'Infinitives'
@@ -603,7 +603,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g60',
     'grammar',
-    '',
+    'I usually ___ breakfast at seven.',
     '["have","has","having","had"]',
     0,
     'Present Simple'
@@ -613,7 +613,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g61',
     'grammar',
-    '',
+    'She ___ her teeth twice a day.',
     '["brush","brushes","brushing","brushed"]',
     1,
     'Present Simple'
@@ -623,7 +623,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g62',
     'grammar',
-    '',
+    'We ___ visit grandma tomorrow.',
     '["are going to","going","go to","is going"]',
     0,
     'Future plans'
@@ -633,7 +633,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g63',
     'grammar',
-    '',
+    'I think it ___ rain later.',
     '["will","was","has","did"]',
     0,
     'Future Simple'
@@ -643,7 +643,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g64',
     'grammar',
-    '',
+    'They ___ travel next week.',
     '["will","did","were","has"]',
     0,
     'Future Simple'
@@ -653,7 +653,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g65',
     'grammar',
-    '',
+    'If you study, you ___ pass.',
     '["would","will","are","did"]',
     1,
     'First conditional'
@@ -663,7 +663,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g66',
     'grammar',
-    '',
+    'If it rains, we ___ inside.',
     '["stay","will stay","stayed","staying"]',
     1,
     'First conditional'
@@ -673,7 +673,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g67',
     'grammar',
-    '',
+    'You are tired, ___?',
     '["are you","aren’t you","isn’t it","don’t you"]',
     1,
     'Question tags'
@@ -683,7 +683,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g68',
     'grammar',
-    '',
+    'She can swim, ___?',
     '["can she","does she","can’t she","isn’t she"]',
     2,
     'Question tags'
@@ -693,7 +693,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g69',
     'grammar',
-    '',
+    'This is Ali. ___ is my friend.',
     '["He","She","It","They"]',
     0,
     'Pronouns'
@@ -703,7 +703,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g70',
     'grammar',
-    '',
+    'I gave ___ the book.',
     '["he","him","his","himself"]',
     1,
     'Pronouns'
@@ -713,7 +713,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g71',
     'grammar',
-    '',
+    'This bag is ___.',
     '["my","me","mine","I"]',
     2,
     'Possessives'
@@ -723,7 +723,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g72',
     'grammar',
-    '',
+    'That is ___ house.',
     '["they","them","their","theirs"]',
     2,
     'Possessives'
@@ -733,7 +733,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g73',
     'grammar',
-    '',
+    'The children ___ happy yesterday.',
     '["was","were","is","be"]',
     1,
     'Past of be'
@@ -743,7 +743,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g74',
     'grammar',
-    '',
+    'I ___ at home last night.',
     '["were","am","was","be"]',
     2,
     'Past of be'
@@ -753,7 +753,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g75',
     'grammar',
-    '',
+    'There ___ any milk yesterday.',
     '["weren’t","wasn’t","isn’t","aren’t"]',
     1,
     'Past of be'
@@ -763,7 +763,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g76',
     'grammar',
-    '',
+    'How ___ your day?',
     '["was","were","are","be"]',
     0,
     'Past of be'
@@ -773,7 +773,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g77',
     'grammar',
-    '',
+    'She speaks English very ___.',
     '["good","well","best","betterly"]',
     1,
     'Adverbs'
@@ -783,7 +783,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g78',
     'grammar',
-    '',
+    'He runs ___.',
     '["quick","quickly","quickerly","fastly"]',
     1,
     'Adverbs'
@@ -793,7 +793,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g79',
     'grammar',
-    '',
+    'Please speak ___. I can’t hear you.',
     '["loud","louder","more loudly","loudest"]',
     2,
     'Adverbs'
@@ -803,7 +803,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g80',
     'grammar',
-    '',
+    'This is the boy ___ won the race.',
     '["which","who","where","when"]',
     1,
     'Relative pronouns'
@@ -813,7 +813,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g81',
     'grammar',
-    '',
+    'That is the school ___ I study.',
     '["who","which","where","whose"]',
     2,
     'Relative pronouns'
@@ -823,7 +823,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g82',
     'grammar',
-    '',
+    'The book ___ is on the table is mine.',
     '["who","where","that","when"]',
     2,
     'Relative pronouns'
@@ -833,7 +833,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g83',
     'grammar',
-    '',
+    'English ___ in many countries.',
     '["speak","speaks","is spoken","speaking"]',
     2,
     'Passive voice'
@@ -843,7 +843,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g84',
     'grammar',
-    '',
+    'The window was ___ yesterday.',
     '["break","broke","broken","breaking"]',
     2,
     'Passive voice'
@@ -853,7 +853,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g85',
     'grammar',
-    '',
+    'The letters ___ every morning.',
     '["deliver","are delivered","delivered","is deliver"]',
     1,
     'Passive voice'
@@ -863,7 +863,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g86',
     'grammar',
-    '',
+    'You must ___ your homework.',
     '["to do","doing","do","did"]',
     2,
     'Modal verbs'
@@ -873,7 +873,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g87',
     'grammar',
-    '',
+    'We ___ be quiet in the library.',
     '["must","must to","are must","has to"]',
     0,
     'Modal verbs'
@@ -883,7 +883,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g88',
     'grammar',
-    '',
+    'He ___ to wear a uniform at school.',
     '["have","has","must to","having"]',
     1,
     'Have to'
@@ -893,7 +893,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g89',
     'grammar',
-    '',
+    'I ___ get up early yesterday.',
     '["have to","had to","has to","must to"]',
     1,
     'Have to'
@@ -903,7 +903,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g90',
     'grammar',
-    '',
+    'Would you like ___ juice?',
     '["some","any","many","few"]',
     0,
     'Polite requests'
@@ -913,7 +913,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g91',
     'grammar',
-    '',
+    'Can you help ___, please?',
     '["I","my","me","mine"]',
     2,
     'Requests'
@@ -923,7 +923,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g92',
     'grammar',
-    '',
+    'Neither Tom ___ Sam is here.',
     '["or","nor","and","but"]',
     1,
     'Conjunctions'
@@ -933,7 +933,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g93',
     'grammar',
-    '',
+    'I was tired, ___ I went to bed.',
     '["because","so","but","or"]',
     1,
     'Conjunctions'
@@ -943,7 +943,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g94',
     'grammar',
-    '',
+    'I stayed home ___ I was ill.',
     '["because","so","but","or"]',
     0,
     'Conjunctions'
@@ -953,7 +953,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g95',
     'grammar',
-    '',
+    'She is tall ___ her sister is short.',
     '["because","so","but","if"]',
     2,
     'Conjunctions'
@@ -963,7 +963,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g96',
     'grammar',
-    '',
+    'There are ___ books on the shelf.',
     '["much","a little","many","any of"]',
     2,
     'Quantifiers'
@@ -973,7 +973,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g97',
     'grammar',
-    '',
+    'This is ___ interesting story.',
     '["a","an","many","few"]',
     1,
     'Articles'
@@ -983,7 +983,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g98',
     'grammar',
-    '',
+    'My parents ___ dinner now.',
     '["cook","cooks","are cooking","cooked"]',
     2,
     'Present Continuous'
@@ -993,7 +993,7 @@ INSERT OR REPLACE INTO questions
   VALUES (
     'grammar-g99',
     'grammar',
-    '',
+    'He never ___ late.',
     '["arrive","arrives","arriving","arrived"]',
     1,
     'Present Simple'
